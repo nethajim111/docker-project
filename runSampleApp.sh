@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Starting the Sample Tomcat Application"
-docker run -dit -P sample:latest 
+docker run -dit -P sample-app:latest
